@@ -25,5 +25,3 @@ explore: review_parquet {}
 explore: review_bigquery_using_csvfile {}
 
 explore: review_avro {}
-
-#
