@@ -14,7 +14,8 @@ explore: review_001 {}
 
 explore: review_of_load_data_from_excel_to_big_query_using_cloud_storage {}
 
-explore: looker_demo_main {}
+explore: looker_demo_main {
+  }
 
 explore: liquor_sales {}
 
